@@ -1,0 +1,99 @@
+C:\Users\michta\Desktop\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\michta\Desktop\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\michta\Desktop\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\michta\Desktop\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\michta\Desktop\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\michta\Desktop\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csprojAssemblyReference.cache
+C:\Users\michta\Desktop\BodyBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\michta\Desktop\BodyBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\michta\Desktop\BodyBasics-WPF\obj\Debug\App.g.cs
+C:\Users\michta\Desktop\BodyBasics-WPF\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\michta\Desktop\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\michta\Desktop\BodyBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\michta\Desktop\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.cache
+C:\Users\michta\Desktop\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csproj.CoreCompileInputs.cache
+C:\Users\michta\Desktop\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csproj.CopyComplete
+C:\Users\michta\Desktop\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.exe
+C:\Users\michta\Desktop\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\michta\Desktop\fitness\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\michta\Desktop\fitness\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\michta\Desktop\fitness\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\michta\Desktop\fitness\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\michta\Desktop\fitness\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\michta\Desktop\fitness\obj\Debug\BodyBasics-WPF.csprojAssemblyReference.cache
+C:\Users\michta\Desktop\fitness\obj\Debug\MainWindow.baml
+C:\Users\michta\Desktop\fitness\obj\Debug\MainWindow.g.cs
+C:\Users\michta\Desktop\fitness\obj\Debug\App.g.cs
+C:\Users\michta\Desktop\fitness\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\michta\Desktop\fitness\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\michta\Desktop\fitness\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\michta\Desktop\fitness\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.cache
+C:\Users\michta\Desktop\fitness\obj\Debug\BodyBasics-WPF.csproj.CoreCompileInputs.cache
+C:\Users\michta\Desktop\fitness\obj\Debug\BodyBasics-WPF.csproj.CopyComplete
+C:\Users\michta\Desktop\fitness\obj\Debug\BodyBasics-WPF.exe
+C:\Users\michta\Desktop\fitness\obj\Debug\BodyBasics-WPF.pdb
+H:\fitness\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+H:\fitness\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+H:\fitness\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+H:\fitness\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+H:\fitness\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+H:\fitness\obj\Debug\BodyBasics-WPF.csprojAssemblyReference.cache
+H:\fitness\obj\Debug\MainWindow.baml
+H:\fitness\obj\Debug\MainWindow.g.cs
+H:\fitness\obj\Debug\App.g.cs
+H:\fitness\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+H:\fitness\obj\Debug\BodyBasics-WPF.g.resources
+H:\fitness\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+H:\fitness\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.cache
+H:\fitness\obj\Debug\BodyBasics-WPF.csproj.CoreCompileInputs.cache
+H:\fitness\obj\Debug\BodyBasics-WPF.csproj.CopyComplete
+H:\fitness\obj\Debug\BodyBasics-WPF.exe
+H:\fitness\obj\Debug\BodyBasics-WPF.pdb
+F:\fitness\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+F:\fitness\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+F:\fitness\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+F:\fitness\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+F:\fitness\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+F:\fitness\obj\Debug\BodyBasics-WPF.csprojAssemblyReference.cache
+F:\fitness\obj\Debug\MainWindow.baml
+F:\fitness\obj\Debug\MainWindow.g.cs
+F:\fitness\obj\Debug\App.g.cs
+F:\fitness\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+F:\fitness\obj\Debug\BodyBasics-WPF.g.resources
+F:\fitness\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+F:\fitness\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.cache
+F:\fitness\obj\Debug\BodyBasics-WPF.csproj.CoreCompileInputs.cache
+F:\fitness\obj\Debug\BodyBasics-WPF.csproj.CopyComplete
+F:\fitness\obj\Debug\BodyBasics-WPF.exe
+F:\fitness\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\Sylwek\Desktop\Przykładowe Obrazy\przykładowe obrazy\Jakub Michta\FitnessApp_Michta\fitness\fitness\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\Sylwek\Desktop\Przykładowe Obrazy\przykładowe obrazy\Jakub Michta\FitnessApp_Michta\fitness\fitness\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\Sylwek\Desktop\Przykładowe Obrazy\przykładowe obrazy\Jakub Michta\FitnessApp_Michta\fitness\fitness\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\Sylwek\Desktop\Przykładowe Obrazy\przykładowe obrazy\Jakub Michta\FitnessApp_Michta\fitness\fitness\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Sylwek\Desktop\Przykładowe Obrazy\przykładowe obrazy\Jakub Michta\FitnessApp_Michta\fitness\fitness\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Sylwek\Desktop\Przykładowe Obrazy\przykładowe obrazy\Jakub Michta\FitnessApp_Michta\fitness\fitness\obj\Debug\BodyBasics-WPF.csprojAssemblyReference.cache
+C:\Users\Sylwek\Desktop\Przykładowe Obrazy\przykładowe obrazy\Jakub Michta\FitnessApp_Michta\fitness\fitness\obj\Debug\MainWindow.baml
+C:\Users\Sylwek\Desktop\Przykładowe Obrazy\przykładowe obrazy\Jakub Michta\FitnessApp_Michta\fitness\fitness\obj\Debug\MainWindow.g.cs
+C:\Users\Sylwek\Desktop\Przykładowe Obrazy\przykładowe obrazy\Jakub Michta\FitnessApp_Michta\fitness\fitness\obj\Debug\App.g.cs
+C:\Users\Sylwek\Desktop\Przykładowe Obrazy\przykładowe obrazy\Jakub Michta\FitnessApp_Michta\fitness\fitness\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\Sylwek\Desktop\Przykładowe Obrazy\przykładowe obrazy\Jakub Michta\FitnessApp_Michta\fitness\fitness\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\Sylwek\Desktop\Przykładowe Obrazy\przykładowe obrazy\Jakub Michta\FitnessApp_Michta\fitness\fitness\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\Sylwek\Desktop\Przykładowe Obrazy\przykładowe obrazy\Jakub Michta\FitnessApp_Michta\fitness\fitness\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.cache
+C:\Users\Sylwek\Desktop\Przykładowe Obrazy\przykładowe obrazy\Jakub Michta\FitnessApp_Michta\fitness\fitness\obj\Debug\BodyBasics-WPF.csproj.CoreCompileInputs.cache
+C:\Users\Sylwek\Desktop\Przykładowe Obrazy\przykładowe obrazy\Jakub Michta\FitnessApp_Michta\fitness\fitness\obj\Debug\BodyBasics-WPF.csproj.CopyComplete
+C:\Users\Sylwek\Desktop\Przykładowe Obrazy\przykładowe obrazy\Jakub Michta\FitnessApp_Michta\fitness\fitness\obj\Debug\BodyBasics-WPF.exe
+C:\Users\Sylwek\Desktop\Przykładowe Obrazy\przykładowe obrazy\Jakub Michta\FitnessApp_Michta\fitness\fitness\obj\Debug\BodyBasics-WPF.pdb
+D:\fitness-20190606T113000Z-001\fitness\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+D:\fitness-20190606T113000Z-001\fitness\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+D:\fitness-20190606T113000Z-001\fitness\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+D:\fitness-20190606T113000Z-001\fitness\obj\Debug\BodyBasics-WPF.csprojAssemblyReference.cache
+D:\fitness-20190606T113000Z-001\fitness\obj\Debug\MainWindow.baml
+D:\fitness-20190606T113000Z-001\fitness\obj\Debug\MainWindow.g.cs
+D:\fitness-20190606T113000Z-001\fitness\obj\Debug\App.g.cs
+D:\fitness-20190606T113000Z-001\fitness\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+D:\fitness-20190606T113000Z-001\fitness\obj\Debug\BodyBasics-WPF.g.resources
+D:\fitness-20190606T113000Z-001\fitness\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+D:\fitness-20190606T113000Z-001\fitness\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.cache
+D:\fitness-20190606T113000Z-001\fitness\obj\Debug\BodyBasics-WPF.csproj.CoreCompileInputs.cache
+D:\fitness-20190606T113000Z-001\fitness\obj\Debug\BodyBasics-WPF.exe
+D:\fitness-20190606T113000Z-001\fitness\obj\Debug\BodyBasics-WPF.pdb
